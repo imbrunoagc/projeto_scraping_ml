@@ -15,7 +15,7 @@ $ python transformacao/main.py
 ```
 
 
--- Para Executar o Dashboard, é preciso executar o comando abaixo, na seguinte pasta `src`.
+- Para Executar o Dashboard, é preciso executar o comando abaixo, na seguinte pasta `src`.
 ```bash
 $ streamlir run dashboard/app.py
 ```
